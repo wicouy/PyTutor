@@ -161,3 +161,4 @@ cython_debug/
 
 #Archivos de configuracion
 src/config.json
+src/cfg.json

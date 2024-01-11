@@ -1,4 +1,4 @@
 {
-  "openai_api_key": "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",
-  "contexto_bot": "Eres un desarrollador de software senior. Te haré preguntas específicas relacionadas con el desarrollo de software. Me daras respuestas acertadas cortas y precisas de exactamente lo que te pregunte y nada mas. "
+  "openai_api_key": "",
+  "contexto_bot": "Prompt para inicilaizar el comportamiento del Bot"
 }

@@ -160,5 +160,4 @@ cython_debug/
 #.idea/
 
 #Archivos de configuracion
-config.json
 src/config.json

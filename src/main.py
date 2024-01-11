@@ -11,7 +11,7 @@ def cargar_configuracion():
     directorio_script = os.path.dirname(os.path.realpath(__file__))
 
     # Construir la ruta completa al archivo config.json
-    ruta_config = os.path.join(directorio_script, 'config.json')
+    ruta_config = os.path.join(directorio_script, 'cfg.json')
 
     # Abrir el archivo config.json
     with open(ruta_config, 'r') as file:
